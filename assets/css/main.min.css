@@ -2045,7 +2045,7 @@ input[type="radio"] + label:before {
 }
 .image.fit img {
     width: 100%;
-    height: auto;
+    height: 100%;
 }
 .image.rounded {
     border-radius: 100%;
@@ -4831,7 +4831,7 @@ input[type="radio"] + label:before {
 }
 .image.fit img {
     width: 100%;
-    height: auto;
+    height: 100%;
 }
 .image.rounded {
     border-radius: 100%;
