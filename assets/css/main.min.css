@@ -1771,7 +1771,6 @@ button.special:active,
 }
 .feature-grid .feature .image img {
     display: inline;
-    max-width: 100%;
     width: 150px;
     height: 150px;
 }
@@ -4557,7 +4556,6 @@ button.special:active,
 }
 .feature-grid .feature .image img {
     display: inline;
-    max-width: 100%;
     width: 150px;
     height: 150px;
 }
