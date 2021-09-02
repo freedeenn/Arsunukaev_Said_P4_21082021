@@ -101,7 +101,6 @@ a:hover {
 
 .d-bloc {
     color: white;
-    font: icon;
 }
 
 .d-bloc button:hover {
@@ -652,7 +651,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    font: icon;
     color: black!important;
 }
 
@@ -679,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
