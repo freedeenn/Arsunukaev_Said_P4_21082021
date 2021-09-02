@@ -753,7 +753,6 @@ h4 {
     margin-bottom: 44px;
     margin-top: 50px;
 }
-
 .avatar {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
@@ -910,6 +909,10 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+    }
+    .col-sm-6 a{
+        margin-left: 25%;
+        margin-right: 25%;
     }
     .b-parallax {
         background-attachment: scroll;
