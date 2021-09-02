@@ -701,7 +701,10 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 8px auto 50px auto;
+}
+.social .col-sm-3{
+    margin-top: 8px;
 }
 
 h2 {
