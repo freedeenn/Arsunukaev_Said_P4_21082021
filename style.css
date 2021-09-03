@@ -910,11 +910,13 @@ h4 {
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
+    .col-sm-6 img{
+        width: 100%;
+        height: auto;
+    }
     .col-sm-6 a{
         margin-left: 25%;
         margin-right: 25%;
-        width: 100%;
-        height: auto;
     }
     .b-parallax {
         background-attachment: scroll;
