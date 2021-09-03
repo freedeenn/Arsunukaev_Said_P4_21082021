@@ -780,7 +780,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
@@ -913,6 +913,8 @@ h4 {
     .col-sm-6 a{
         margin-left: 25%;
         margin-right: 25%;
+        width: 100%;
+        height: auto;
     }
     .b-parallax {
         background-attachment: scroll;
