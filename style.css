@@ -285,7 +285,9 @@ a:hover {
 .row .col-sm-4 li{
     padding: 5px;
 }
-
+.col-sm-6 {
+    height: auto;
+}
 #bloc-1-hero h1 {
     font-size: 32px;
 }
