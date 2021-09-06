@@ -107,9 +107,10 @@
 .et-icon-video,
 .et-icon-wallet,
 .et-icon-wine {
-    font-family: et-line;
+    font-family: et-line, arial;
     speak-as: none;
     font-style: normal;
+    font-display: swap;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
